@@ -16,6 +16,6 @@ public class UseParamFromFatherClass extends Library {
     public String getName() {
         return NAME;
     }
-}
+} 
   
  
